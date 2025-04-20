@@ -22,3 +22,22 @@ cd your-repo-name
 ## Next Steps 
 
 The next section will focus on writing test cases and implementing the initial functions of the hexadecimal calculator using TDD.
+
+# Hexadecimal Calculator - Section 3
+
+[Section 3 Videos](https://drive.google.com/drive/folders/1BZoydkQO2BBPuCb9x_a_Bl5wV8GJy0z0?usp=sharing)
+
+## Overview 
+
+This branch (section3) contains all required materials for this section of the online course on building a hexadecimal calculator using Test-Driven Development (TDD). This section focuses on building, connecting, and testing the graphical user interface (GUI) of your Hexadecimal calculator application. 
+
+## Usage 
+
+To clone this branch and access the materials:
+
+git clone -b section3 https://github.com/your-repo-name.git
+cd your-repo-name
+
+## Next Steps 
+
+With the calculator application fully implemented and thoroughly tested on the front end, the next phase will focus on preparing the application for deployment using modern DevOps practices. This includes containerizing the application and deploying it to a cloud environment.
